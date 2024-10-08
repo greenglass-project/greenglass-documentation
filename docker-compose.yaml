@@ -1,0 +1,8 @@
+#version: '3.6'
+services:
+  host:
+    image: documentation:latest
+    hostname: documentation
+    container_name: documentation
+    ports:
+      - '8888:8888'
