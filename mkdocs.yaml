@@ -37,7 +37,6 @@ nav:
       - Control:
         - Control Model : control-model.md
         - Control Framework : control-framework.md
-      - Process Control: process-control.md
 
   - Developing and Testing: developing-testing.md
 
